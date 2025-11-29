@@ -1,3 +1,3 @@
 # testeruk
 testertest
-TEST
+TESTz\x\x
